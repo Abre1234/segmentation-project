@@ -35,5 +35,5 @@ Customer segmentation is a key technique in marketing to group customers based o
 
 ## How to Run
 1. Clone the repository:
-   ```bash
-   [https://github.com/Abre1234/segmentation-project/blob/main/customer%20segmentation-checkpoint.ipynb]
+
+  (file):[https://github.com/Abre1234/segmentation-project/blob/main/customer%20segmentation-checkpoint.ipynb]
